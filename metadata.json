@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Tree",
+  "description": "A cinematic, hand-controlled 3D Christmas experience using Three.js and MediaPipe. Assemble a Christmas tree with a fist, explode it with an open hand, and grab memories with a pinch.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
